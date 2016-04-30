@@ -26,6 +26,6 @@ module.exports = {
     require('babel-plugin-transform-object-rest-spread')
   ],
   presets: [
-    'react'
+    require('babel-preset-react')
   ]
 };
