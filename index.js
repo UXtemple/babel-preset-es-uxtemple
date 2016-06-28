@@ -4,6 +4,7 @@ module.exports = {
   plugins: [
     require('babel-plugin-async-to-promises'),
     require('babel-plugin-check-es2015-constants'),
+    require('babel-plugin-transform-class-properties'),
     require('babel-plugin-transform-es2015-arrow-functions'),
     require('babel-plugin-transform-es2015-block-scoped-functions'),
     require('babel-plugin-transform-es2015-block-scoping'),
