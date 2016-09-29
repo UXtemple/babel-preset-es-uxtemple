@@ -38,6 +38,6 @@
     "babel-plugin-transform-es2015-unicode-regex": "^6.3.13",
     "babel-plugin-transform-export-extensions": "^6.5.0",
     "babel-plugin-transform-object-rest-spread": "^6.6.0",
-    "babel-preset-react": "^6.5.0"
+    "babel-preset-react": "^6.16.0"
   }
 }
