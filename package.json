@@ -17,7 +17,7 @@
   "dependencies": {
     "babel-plugin-async-to-promises": "^1.0.4",
     "babel-plugin-check-es2015-constants": "^6.3.13",
-    "babel-plugin-transform-class-properties": "^6.9.1",
+    "babel-plugin-transform-class-properties": "^6.23.0",
     "babel-plugin-transform-es2015-arrow-functions": "^6.3.13",
     "babel-plugin-transform-es2015-block-scoped-functions": "^6.3.13",
     "babel-plugin-transform-es2015-block-scoping": "^6.6.0",
